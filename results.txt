@@ -1,0 +1,58 @@
+Thread One: the file "/Users/isaachutchinson1/IdeaProjects/Javarama/out/production/JavaFxApplication/Javarama_local/LoginScreenLayout.fxml" has 352 words and 2596 letters
+
+Thread Two: the file "/Users/isaachutchinson1/Desktop/SpaceAndy-master/src/entities/Laser.java" has 121 words and 545 letters
+
+Thread Three: the file "/Users/isaachutchinson1/Desktop/SpaceAndy-master/src/constants/Constants.java" has 68 words and 365 letters
+
+Thread Four: the file "/Users/isaachutchinson1/Desktop/SpaceAndy-master/.classpath" has 69 words and 412 letters
+
+Thread Six: the file "/Users/isaachutchinson1/Documents/JavaProjects/HW7Shutthebox/src/box/Sound.java" has 63 words and 398 letters
+
+Thread Five: the file "/Users/isaachutchinson1/Documents/JavaProjects/HW8/src/hweight/WordTest.java" has 849 words and 2848 letters
+
+Thread Seven: the file "/Users/isaachutchinson1/Documents/JavaProjects/DOOM/src/Main/SpriteSheet.java" has 41 words and 253 letters
+
+Thread Eight: the file "/Users/isaachutchinson1/Documents/JavaProjects/HW7Shutthebox/src/box/Die.java" has 190 words and 1174 letters
+
+Thread Nine: the file "/Users/isaachutchinson1/Documents/Exam 2 Practice /TreasureTest.class" has 93 words and 424 letters
+
+Thread Ten: the file "/Users/isaachutchinson1/Documents/itec120 2/Labs/L02b_ Bills and coins/Money.java" has 176 words and 1136 letters
+
+Thread Four: the file "/Users/isaachutchinson1/Downloads/words.txt" has 358832 words and 3353786 letters
+
+Thread Six: the file "/Users/isaachutchinson1/Downloads/words.txt" has 358832 words and 3353786 letters
+
+Thread Eight: the file "/Users/isaachutchinson1/Downloads/words.txt" has 358832 words and 3353786 letters
+
+Thread Ten: the file "/Users/isaachutchinson1/Downloads/words.txt" has 358832 words and 3353786 letters
+
+Thread Two: the file "/Users/isaachutchinson1/Downloads/words.txt" has 358832 words and 3353786 letters
+
+Thread One: the file "/Users/isaachutchinson1/Downloads/rockyou.txt" has 13421775 words and 82067747 letters
+
+Thread One: the file "/Users/isaachutchinson1/Downloads/rockyou.txt" has 13421775 words and 82067747 letters
+
+Thread One: the file "/Users/isaachutchinson1/Documents/big.txt" has 34 words and 133 letters
+
+Thread One: the file "/Users/isaachutchinson1/Documents/ITEC 324 JAVA 3/Projects/Wordlettercount/words copy.txt" has 401244 words and 1888241 letters
+
+Thread Three: the file "/Users/isaachutchinson1/Documents/big.txt" has 34 words and 133 letters
+
+Thread One: the file "/Users/isaachutchinson1/Documents/ITEC 324 JAVA 3/Projects/Wordlettercount/words copy.txt" has 401244 words and 1888241 letters
+
+Thread Two: the file "/Users/isaachutchinson1/Downloads/rockyou.txt" has 13421775 words and 82067747 letters
+
+Thread One: the file "/Users/isaachutchinson1/Documents/Test count.txt" has 6813 words and 32220 letters
+
+Thread One: the file "/Users/isaachutchinson1/AndroidStudioProjects/Javarama/app/build/intermediates/res/merged/debug/color/switch_thumb_material_light.xml" has 127 words and 660 letters
+
+Thread Two: the file "/Users/isaachutchinson1/IdeaProjects/Javarama/out/production/JavaFxApplication/Javarama_local/registerScreen.fxml" has 467 words and 3339 letters
+
+Thread Three: the file "/Users/isaachutchinson1/IdeaProjects/Javarama/src/Javarama_local/NetworkError.fxml" has 253 words and 1893 letters
+
+Thread One: the file "/Volumes/KINGSTON/rockyou.txt" has 13421775 words and 82067747 letters
+
+Thread One: the file "/Volumes/KINGSTON/Security/rockyou.txt" has 13421775 words and 82067747 letters
+
+Thread One: the file "/Volumes/KINGSTON/Security/rockyou.txt" has 13421775 words and 82067747 letters
+
